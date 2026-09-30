@@ -1,4 +1,4 @@
-rootProject.name = "Tugas1_KMP_124140203"
+rootProject.name = "Tugas_KMP_124140203"
 
 pluginManagement {
     repositories {

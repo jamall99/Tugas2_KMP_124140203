@@ -1,4 +1,4 @@
-package com.example.tugas1_kmp_124140203
+package com.example.tugas2_kmp_124140203
 
 interface Platform {
     val name: String

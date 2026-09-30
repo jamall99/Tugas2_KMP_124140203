@@ -2,6 +2,7 @@ package com.example.tugas1_kmp_124140203
 
 import androidx.compose.ui.window.Window
 import androidx.compose.ui.window.application
+import com.example.tugas2_kmp_124140203.App
 
 fun main() = application {
     Window(

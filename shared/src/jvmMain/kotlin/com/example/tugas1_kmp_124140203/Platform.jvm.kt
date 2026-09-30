@@ -1,6 +1,6 @@
-package com.example.tugas1_kmp_124140203
+package com.example.tugas2_kmp_124140203
 
-class JVMPlatform: Platform {
+class JVMPlatform : Platform {
     override val name: String = "Java ${System.getProperty("java.version")}"
 }
 
